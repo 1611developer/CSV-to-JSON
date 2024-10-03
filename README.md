@@ -48,10 +48,3 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 basic
 
-
-### Instructions for Use
-
-- Remember to replace `yourusername` in the clone URL with your actual GitHub username.
-- You can add additional sections, such as screenshots or examples, if necessary.
-- Ensure that the license section aligns with your project's licensing terms.
-
