@@ -2,6 +2,10 @@
 
 A simple web application that allows users to upload CSV files and convert them into JSON format. The app provides an option to download the converted JSON data. Built with React and styled using Tailwind CSS.
 
+## Live Application Link
+
+https://csv-to-json-one.vercel.app/
+
 ## Features
 
 - Upload CSV files
